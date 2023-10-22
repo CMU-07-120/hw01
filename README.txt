@@ -1,8 +1,5 @@
 07-120 Introduction to Software Construction
-HW1: Version Control with Git
-
-This is a simple template for [Homework 1](TODO), which allows students to work
-with GitHub.
+hw01: Version Control with Git
 
 Files you will modify:
     student.txt
