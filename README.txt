@@ -4,8 +4,6 @@ hw01: Version Control with Git
 Files you will modify:
     student.txt
     favorites.txt
-
-Files you will create:
     print_favs.c0
 
 Data:
@@ -13,6 +11,9 @@ Data:
 
 ==========================================================
 
+Loading all the libraries in coin to play with them:
+    % coin lib/*.c0
+
 Compiling C0 program:
-    % cc0 -d -w -o favs print_favs.c0
+    % cc0 -d -w -o favs lib/*.c0 print_favs.c0
     % ./favs
